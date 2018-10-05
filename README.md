@@ -4,7 +4,7 @@ It offers to save large files from bandwidth limited servers such as Google Driv
 
 # Features
 
--Read Async
--Write Async
--Download File In Chunks Async
--UWP / C#
+.Read Async
+.Write Async
+.Download File In Chunks Async
+.UWP / C#
