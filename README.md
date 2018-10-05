@@ -20,7 +20,7 @@ IProgress<double> progress*,
 chunkSize: 10_485_760)
 ```
 
-## Progess
+## Progress
 ```c#
 if (progress.TotalBytes > 0){
 long percent = (progress.ReceiveBytes * 100 / progress.TotalBytes);
